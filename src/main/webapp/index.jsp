@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Manoj J Bnv-8</h2>
+      <h2> Instagram v-8</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
